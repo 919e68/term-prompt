@@ -2,15 +2,14 @@
 
 ## Requirements
 
-- lolcat
+- lolcat (rust port <https://github.com/ur0/lolcat>)
 
 ## Clone
 
 ```text
-$ git clone https://github.com/919e68/terminal-greeter.git
-$ cd terminal-greeter
-$ ./install.sh
-
+git clone https://github.com/919e68/terminal-greeter.git
+cd terminal-greeter
+./install.sh
 ```
 
 ## Config
