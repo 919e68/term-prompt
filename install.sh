@@ -1,2 +1,2 @@
-mkdir -p ~/.config/terminal-greeter/arts
-cp -r ./arts ~/.config/terminal-greeter
+mkdir -p ~/.config/term-prompt/arts
+cp -r ./arts ~/.config/term-prompt
