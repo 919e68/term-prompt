@@ -1,8 +1,9 @@
-# Terminal Greeter
+# Term Prompt
 
 ## Requirements
 
-- lolcat (rust port <https://github.com/ur0/lolcat>)
+- lolcat 
+  - rust port (blazingly fast 😅) <https://github.com/ur0/lolcat>
 
 ## Clone
 
