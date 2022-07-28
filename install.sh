@@ -1,2 +1,2 @@
-mkdir -p ~/.config/term-prompt/arts
-cp -r ./arts ~/.config/term-prompt
+mkdir -p $HOME/.config/term-prompt/arts
+cp -r ./arts $HOME/.config/term-prompt
